@@ -1,0 +1,18 @@
+{
+    "name": "ZGQ Inc. 站点监测",
+    "short_name": "ZGQ Inc. 站点监测",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#efefef",
+    "lang": "en",
+    "scope": "/",
+    "description": "ZGQ Inc. 站点监测",
+    "theme_color": "#fff",
+    "icons": [
+      {
+        "src": "/images/favicon.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ]
+  }
