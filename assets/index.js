@@ -11298,7 +11298,7 @@ qm.exports = function() {
 const Km = o(qm.exports),
   Zm = async (t, e) => {
     try {
-      const e = "https://cors.status.org.cn/uptimerobot/v2/getMonitors";
+      const e = "https://api.uptimerobot.com/v2/getMonitors";
       return (await Um.post(e, t, {
         timeout: 1e4
       })).data
